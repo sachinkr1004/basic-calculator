@@ -1,3 +1,3 @@
 # basic-calculator
-![image](Downloads/output_of_calculator.jpeg)
+![image](output_of_calculator.jpeg)
 
