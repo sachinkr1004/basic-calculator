@@ -1,11 +1,9 @@
-# basic-calculator
-![image](output_of_calculator.jpeg)
-
-
-
 # 🧮 Basic Calculator
 
 A simple calculator built using **HTML, CSS, and JavaScript** that performs basic arithmetic operations.
+
+![image](output_of_calculator.jpeg)
+
 
 ## 🚀 Features
 
